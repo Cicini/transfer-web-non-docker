@@ -22,9 +22,7 @@ On some Safari browsers, the file download will not work because of bugs on Appl
 
 ## Local Development
 
-### Nginx
-
-#### Config
+### Nginx Config
 
 ```nginx
 server {
@@ -48,7 +46,8 @@ server {
 }
 ```
 
-#### How to Fix Unknown "connection_upgrade" Variable
+> **Note**
+> How to Fix Unknown "connection_upgrade" Variable
 
 put in `nginx.con` `http`
 
