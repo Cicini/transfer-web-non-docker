@@ -32,7 +32,7 @@ server {
         ssl_certificate     /path/to/your/cert;
         ssl_certificate_key /path/to/your/certkey;
         location / {
-	      root /home/www-data/example.com;
+	      root /path/to/your/webroot;
               index index.html;
 	}
         location /ws {
