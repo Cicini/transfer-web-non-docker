@@ -49,7 +49,7 @@ server {
 > **Note**
 > How to Fix Unknown "connection_upgrade" Variable
 
-put in `nginx.con` `http`
+put in `nginx.conf` `http`
 
 ```nginx
 map $http_upgrade $connection_upgrade {  
