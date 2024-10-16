@@ -4,7 +4,7 @@ This repository is a non-docker version of [transfer.zip](https://github.com/rob
 
 To run this repository you will also need to download [transfer-server](https://github.com/Cicini/transfer-server).
 
-This repository may not update the official version, but you can manually change the official version through the README in this repository.
+This repository may not update the official latest version, but you can manually change the official version through the README in this repository.
 
 ## Transfer
 
